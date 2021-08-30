@@ -25,7 +25,9 @@ I'm Starriv, Web developer, always love ❤️
   <img src="https://img.shields.io/badge/figma-%23f24e1e.svg?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
 </div>
 
-###
+### Contribute
+[![Starriv's GitHub stats](https://github-readme-stats.vercel.app/api?username=starriv)](https://github.com/starriv)
+
 <!--
 **starriv/starriv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
